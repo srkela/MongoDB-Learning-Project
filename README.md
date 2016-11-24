@@ -6,6 +6,5 @@
 
 `npm install && cd static && bower install` to install NPM and bower modules 
 
-`grunt` will run the following tasks by default:
 
-* type node mongomart.js and visit http://localhost:3000
+* type 'node mongomart.js' and visit http://localhost:3000
