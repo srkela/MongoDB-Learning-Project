@@ -1,4 +1,4 @@
-# MongoDB Unovrsity M101JS
+# MongoDB University M101JS
 
 ### Installation
 
