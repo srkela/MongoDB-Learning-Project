@@ -7,4 +7,4 @@
 `npm install && cd static && bower install` to install NPM and bower modules 
 
 
-* type 'node mongomart.js' and visit http://localhost:3000
+* type `node mongomart.js` and visit http://localhost:3000
